@@ -1,0 +1,16 @@
+Movie_ID,Movie,Genre,Year,Rating,Votes,Language
+M101,Inception,Sci-Fi,2010,8.8,250000,English
+M102,3 Idiots,Comedy,2009,8.4,180000,Hindi
+M103,Interstellar,Sci-Fi,2014,8.6,230000,English
+M104,Dangal,Sports,2016,8.3,160000,Hindi
+M105,PK,Comedy,2014,8.1,150000,Hindi
+M106,Avengers,Action,2012,8,210000,English
+M107,Titanic,Romance,1997,7.9,220000,English
+M108,Taare Zameen Par,Drama,2007,8.3,120000,Hindi
+M109,Sholay,Action,1975,8.1,100000,Hindi
+M110,The Dark Knight,Action,2008,9,300000,English
+M111,Interstellar,Sci-Fi,2014,8.6,230000,English
+M112,Barfi,Comedy,2012,8.1,110000,Hindi
+M113,Swades,Drama,2004,8.2,90000,Hindi
+M114,Avatar,Sci-Fi,2009,7.8,250000,English
+M115,3 Idiots,Comedy,2009,8.4,180000,Hindi
