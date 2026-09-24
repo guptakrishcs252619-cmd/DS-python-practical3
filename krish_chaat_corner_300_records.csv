@@ -1,0 +1,302 @@
+No.,Name,Order,Total
+1,Aman Singh,"Dahi Puri x1, Sev Puri x1, Ragada Patties x2",265
+2,Aisha Khan,"Dahi Puri x2, Bhel Puri x1",180
+3,Aisha Khan,"Dahi Puri x2, Water Bottle x2, Coke x1",210
+4,Aarav Sharma,"Dahi Puri x2, Sev Puri x2, Dahi Ragada Patties x2",410
+5,Priya Patel,Coke x1,40
+6,Krish Gupta,"Coke x2, Sev Puri x1",140
+7,Aarav Sharma,"Dahi Puri x1, Bhel Puri x1",115
+8,Simran Singh,"Coke x1, Ragada Patties x1",110
+9,Arjun Desai,Dahi Ragada Patties x1,80
+10,Simran Singh,Ragada Patties x2,140
+11,Manav Desai,Bhel Puri x1,50
+12,Siddharth Jain,"Coke x1, Bhel Puri x2, Ragada Patties x2",280
+13,Rohan Mehta,Sev Puri x2,120
+14,Om Patil,Bhel Puri x1,50
+15,Siddharth Jain,"Dahi Puri x1, Water Bottle x1",85
+16,Krish Gupta,Water Bottle x2,40
+17,Siddharth Jain,"Bhel Puri x2, Dahi Puri x1",165
+18,Dev Malhotra,"Coke x1, Water Bottle x2, Sev Puri x1",140
+19,Ishaan Kapoor,"Coke x2, Dahi Ragada Patties x1, Water Bottle x1",180
+20,Pooja Desai,"Dahi Ragada Patties x2, Dahi Puri x1, Water Bottle x2",265
+21,Neel Shah,"Water Bottle x2, Ragada Patties x1, Dahi Puri x2",240
+22,Priya Patel,"Dahi Ragada Patties x1, Bhel Puri x1",130
+23,Neel Shah,"Bhel Puri x1, Ragada Patties x1",120
+24,Vedant Rao,Dahi Puri x2,130
+25,Rohan Mehta,Dahi Puri x1,65
+26,Priya Patel,Water Bottle x2,40
+27,Aditya Shah,Sev Puri x1,60
+28,Dev Malhotra,"Dahi Puri x1, Dahi Ragada Patties x1",145
+29,Diya Joshi,Bhel Puri x1,50
+30,Neha Verma,"Bhel Puri x1, Sev Puri x1",110
+31,Tanvi Patil,"Bhel Puri x2, Water Bottle x1",120
+32,Karan Shah,Coke x2,80
+33,Aditya Shah,"Water Bottle x1, Bhel Puri x1",70
+34,Simran Singh,"Water Bottle x1, Ragada Patties x1, Bhel Puri x1",140
+35,Harsh Patel,"Sev Puri x1, Coke x1",100
+36,Diya Joshi,Water Bottle x2,40
+37,Diya Joshi,"Coke x1, Dahi Ragada Patties x1, Bhel Puri x2",220
+38,Harsh Patel,"Bhel Puri x1, Coke x1",90
+39,Vedant Rao,"Dahi Puri x2, Dahi Ragada Patties x1, Coke x2",290
+40,Vedant Rao,"Dahi Puri x1, Water Bottle x2",105
+41,Dev Malhotra,"Bhel Puri x1, Ragada Patties x2",190
+42,Yash Joshi,"Water Bottle x2, Ragada Patties x2",180
+43,Arjun Desai,"Dahi Puri x2, Coke x1, Dahi Ragada Patties x2",330
+44,Ishaan Kapoor,Bhel Puri x2,100
+45,Rohan Mehta,Sev Puri x2,120
+46,Rahul Verma,"Sev Puri x1, Water Bottle x1",80
+47,Simran Singh,Dahi Puri x1,65
+48,Yash Joshi,"Bhel Puri x2, Sev Puri x1",160
+49,Tanvi Patil,Sev Puri x2,120
+50,Dhruv Joshi,"Water Bottle x1, Ragada Patties x2",160
+51,Aarav Sharma,"Coke x1, Dahi Puri x2",170
+52,Rohan Mehta,"Dahi Ragada Patties x2, Bhel Puri x2",260
+53,Riya Mehta,"Ragada Patties x1, Dahi Ragada Patties x1",150
+54,Aman Singh,"Water Bottle x2, Ragada Patties x1, Bhel Puri x2",210
+55,Yash Joshi,"Dahi Puri x1, Water Bottle x2, Ragada Patties x1",175
+56,Om Patil,Dahi Puri x1,65
+57,Simran Singh,"Water Bottle x2, Dahi Ragada Patties x2, Dahi Puri x2",330
+58,Rahul Verma,"Sev Puri x1, Dahi Ragada Patties x1, Dahi Puri x1",205
+59,Harsh Patel,Sev Puri x2,120
+60,Krish Gupta,Water Bottle x1,20
+61,Karan Shah,"Coke x2, Dahi Puri x2, Dahi Ragada Patties x1",290
+62,Tanvi Patil,Dahi Puri x1,65
+63,Tanvi Patil,"Sev Puri x2, Ragada Patties x2",260
+64,Raj Mehta,"Sev Puri x2, Coke x1",160
+65,Ananya Sharma,"Ragada Patties x1, Bhel Puri x1",120
+66,Neha Verma,"Dahi Ragada Patties x2, Ragada Patties x1, Dahi Puri x1",295
+67,Arjun Desai,"Sev Puri x2, Bhel Puri x1",170
+68,Aman Singh,"Dahi Ragada Patties x2, Dahi Puri x2, Water Bottle x1",310
+69,Yash Joshi,Water Bottle x2,40
+70,Dev Malhotra,"Dahi Ragada Patties x2, Dahi Puri x2",290
+71,Aman Singh,"Dahi Puri x2, Coke x1",170
+72,Aman Singh,"Dahi Puri x2, Coke x2, Ragada Patties x1",280
+73,Ishaan Kapoor,"Dahi Puri x1, Water Bottle x1",85
+74,Dev Malhotra,"Dahi Puri x2, Coke x1",170
+75,Siddharth Jain,"Dahi Ragada Patties x2, Dahi Puri x1",225
+76,Ishaan Kapoor,"Ragada Patties x1, Dahi Ragada Patties x2, Sev Puri x1",290
+77,Priya Patel,"Bhel Puri x2, Dahi Ragada Patties x1",180
+78,Harsh Patel,"Water Bottle x1, Ragada Patties x1",90
+79,Sneha Shah,"Dahi Ragada Patties x1, Ragada Patties x2",220
+80,Neel Shah,"Bhel Puri x1, Dahi Puri x2",180
+81,Neel Shah,"Dahi Ragada Patties x2, Sev Puri x1",220
+82,Neha Verma,Dahi Puri x1,65
+83,Neel Shah,Bhel Puri x1,50
+84,Pooja Desai,"Bhel Puri x2, Dahi Puri x2, Ragada Patties x1",300
+85,Ananya Sharma,"Ragada Patties x1, Sev Puri x1",130
+86,Tanvi Patil,"Dahi Puri x1, Dahi Ragada Patties x1, Ragada Patties x2",285
+87,Karan Shah,Coke x1,40
+88,Sneha Shah,Dahi Ragada Patties x2,160
+89,Rohan Mehta,"Bhel Puri x2, Coke x2, Water Bottle x1",200
+90,Raj Mehta,Dahi Ragada Patties x2,160
+91,Tanvi Patil,"Ragada Patties x2, Coke x1",180
+92,Vedant Rao,Bhel Puri x2,100
+93,Riya Mehta,"Water Bottle x1, Coke x2",100
+94,Pooja Desai,Ragada Patties x2,140
+95,Rohan Mehta,"Dahi Ragada Patties x2, Coke x1",200
+96,Rohan Mehta,"Ragada Patties x2, Dahi Ragada Patties x1, Dahi Puri x2",350
+97,Vedant Rao,"Bhel Puri x1, Dahi Puri x1",115
+98,Dev Malhotra,Coke x2,80
+99,Aman Singh,"Dahi Puri x2, Sev Puri x1",190
+100,Ananya Sharma,Dahi Ragada Patties x1,80
+101,Aarav Sharma,"Sev Puri x2, Dahi Ragada Patties x2",280
+102,Pooja Desai,Coke x1,40
+103,Tanvi Patil,Dahi Puri x2,130
+104,Yash Joshi,Ragada Patties x2,140
+105,Om Patil,"Sev Puri x1, Bhel Puri x1, Dahi Ragada Patties x1",190
+106,Dev Malhotra,Ragada Patties x1,70
+107,Aditya Shah,"Ragada Patties x1, Water Bottle x1, Bhel Puri x1",140
+108,Ishaan Kapoor,"Ragada Patties x2, Water Bottle x2",180
+109,Om Patil,"Dahi Ragada Patties x2, Ragada Patties x1, Coke x2",310
+110,Riya Mehta,"Sev Puri x2, Dahi Puri x2",250
+111,Harsh Patel,"Dahi Ragada Patties x2, Water Bottle x2",200
+112,Raj Mehta,"Sev Puri x2, Coke x2, Dahi Puri x1",265
+113,Ishaan Kapoor,"Sev Puri x2, Dahi Puri x1",185
+114,Priya Patel,Dahi Puri x2,130
+115,Vedant Rao,Ragada Patties x1,70
+116,Om Patil,"Ragada Patties x2, Dahi Puri x1",205
+117,Priya Patel,"Water Bottle x2, Dahi Puri x2, Coke x1",210
+118,Neel Shah,"Bhel Puri x2, Sev Puri x2, Dahi Ragada Patties x2",380
+119,Raj Mehta,"Ragada Patties x1, Dahi Puri x1",135
+120,Aisha Khan,"Water Bottle x1, Ragada Patties x1, Dahi Puri x2",220
+121,Manav Desai,"Ragada Patties x2, Dahi Ragada Patties x1",220
+122,Karan Shah,"Ragada Patties x2, Dahi Ragada Patties x2",300
+123,Yash Joshi,"Ragada Patties x2, Coke x1",180
+124,Simran Singh,"Water Bottle x2, Ragada Patties x1, Coke x2",190
+125,Manav Desai,"Bhel Puri x1, Dahi Puri x1, Coke x1",155
+126,Rahul Verma,Coke x1,40
+127,Harsh Patel,"Sev Puri x2, Coke x2, Water Bottle x2",240
+128,Diya Joshi,Ragada Patties x1,70
+129,Priya Patel,Water Bottle x1,20
+130,Pooja Desai,Bhel Puri x2,100
+131,Pooja Desai,"Dahi Ragada Patties x2, Water Bottle x2, Sev Puri x2",320
+132,Vivaan Patel,"Bhel Puri x1, Dahi Puri x2, Sev Puri x2",300
+133,Siddharth Jain,Water Bottle x1,20
+134,Krish Gupta,"Dahi Ragada Patties x1, Ragada Patties x1, Bhel Puri x1",200
+135,Manav Desai,"Dahi Ragada Patties x1, Bhel Puri x2",180
+136,Dev Malhotra,Water Bottle x2,40
+137,Diya Joshi,"Bhel Puri x2, Water Bottle x2, Dahi Puri x1",205
+138,Harsh Patel,Dahi Puri x1,65
+139,Siddharth Jain,"Dahi Puri x2, Water Bottle x1",150
+140,Karan Shah,Sev Puri x2,120
+141,Vivaan Patel,Water Bottle x1,20
+142,Harsh Patel,"Dahi Ragada Patties x1, Water Bottle x1",100
+143,Aman Singh,"Coke x2, Bhel Puri x2",180
+144,Neha Verma,Ragada Patties x2,140
+145,Pooja Desai,"Bhel Puri x1, Coke x2",130
+146,Raj Mehta,"Water Bottle x1, Dahi Ragada Patties x1",100
+147,Krish Gupta,Coke x1,40
+148,Priya Patel,"Sev Puri x2, Water Bottle x2",160
+149,Aditya Shah,"Dahi Ragada Patties x2, Ragada Patties x1, Coke x1",270
+150,Pooja Desai,"Bhel Puri x1, Sev Puri x2, Ragada Patties x2",310
+151,Vedant Rao,Dahi Ragada Patties x1,80
+152,Dhruv Joshi,Ragada Patties x2,140
+153,Om Patil,"Bhel Puri x2, Water Bottle x1",120
+154,Yash Joshi,"Dahi Puri x1, Water Bottle x2, Dahi Ragada Patties x2",265
+155,Karan Shah,Bhel Puri x2,100
+156,Om Patil,"Coke x2, Sev Puri x1",140
+157,Krish Gupta,"Water Bottle x2, Coke x1, Bhel Puri x1",130
+158,Sneha Shah,"Water Bottle x1, Ragada Patties x1",90
+159,Riya Mehta,Ragada Patties x2,140
+160,Aarav Sharma,"Coke x2, Dahi Puri x1",145
+161,Yash Joshi,"Dahi Ragada Patties x2, Dahi Puri x2, Bhel Puri x1",340
+162,Yash Joshi,"Bhel Puri x2, Dahi Ragada Patties x1, Sev Puri x2",300
+163,Vedant Rao,"Coke x2, Dahi Ragada Patties x2",240
+164,Ananya Sharma,"Dahi Ragada Patties x2, Dahi Puri x1, Water Bottle x1",245
+165,Pooja Desai,"Dahi Puri x1, Dahi Ragada Patties x1, Ragada Patties x2",285
+166,Aarav Sharma,"Sev Puri x2, Coke x2, Bhel Puri x1",250
+167,Rahul Verma,"Dahi Puri x2, Coke x1, Water Bottle x1",190
+168,Rahul Verma,"Bhel Puri x2, Ragada Patties x2, Coke x2",320
+169,Sneha Shah,"Water Bottle x2, Ragada Patties x1",110
+170,Krish Gupta,"Coke x2, Bhel Puri x2",180
+171,Sneha Shah,Sev Puri x1,60
+172,Neel Shah,Dahi Puri x1,65
+173,Rahul Verma,"Water Bottle x1, Coke x1",60
+174,Harsh Patel,"Dahi Ragada Patties x2, Sev Puri x1, Bhel Puri x1",270
+175,Rohan Mehta,"Dahi Puri x1, Dahi Ragada Patties x2, Coke x1",265
+176,Aditya Shah,"Water Bottle x1, Coke x2",100
+177,Ishaan Kapoor,"Coke x2, Dahi Puri x1",145
+178,Ananya Sharma,Dahi Puri x2,130
+179,Krish Gupta,"Coke x2, Bhel Puri x2, Ragada Patties x2",320
+180,Pooja Desai,Ragada Patties x2,140
+181,Pooja Desai,"Coke x1, Water Bottle x2, Dahi Ragada Patties x2",240
+182,Rahul Verma,"Dahi Puri x2, Bhel Puri x2",230
+183,Rahul Verma,Bhel Puri x2,100
+184,Vivaan Patel,Water Bottle x1,20
+185,Yash Joshi,"Water Bottle x1, Dahi Puri x2",150
+186,Neha Verma,Water Bottle x1,20
+187,Harsh Patel,"Ragada Patties x1, Sev Puri x2",190
+188,Vedant Rao,"Sev Puri x2, Water Bottle x2, Bhel Puri x1",210
+189,Manav Desai,Water Bottle x2,40
+190,Riya Mehta,"Coke x2, Water Bottle x2, Ragada Patties x2",260
+191,Pooja Desai,"Ragada Patties x2, Bhel Puri x2",240
+192,Ananya Sharma,"Ragada Patties x2, Bhel Puri x2",240
+193,Diya Joshi,"Dahi Puri x2, Water Bottle x2, Dahi Ragada Patties x2",330
+194,Siddharth Jain,"Water Bottle x1, Dahi Puri x1",85
+195,Raj Mehta,"Dahi Puri x1, Dahi Ragada Patties x1",145
+196,Harsh Patel,"Dahi Puri x2, Ragada Patties x2",270
+197,Dhruv Joshi,"Bhel Puri x2, Sev Puri x1",160
+198,Aman Singh,"Bhel Puri x1, Dahi Ragada Patties x2",210
+199,Krish Gupta,Ragada Patties x1,70
+200,Aarav Sharma,Bhel Puri x1,50
+201,Om Patil,"Sev Puri x2, Ragada Patties x2",260
+202,Diya Joshi,"Sev Puri x1, Ragada Patties x1",130
+203,Vedant Rao,"Water Bottle x1, Bhel Puri x1",70
+204,Pooja Desai,"Ragada Patties x2, Bhel Puri x1",190
+205,Om Patil,"Ragada Patties x2, Bhel Puri x1",190
+206,Neha Verma,"Dahi Puri x2, Dahi Ragada Patties x1",210
+207,Yash Joshi,"Water Bottle x2, Coke x1",80
+208,Ishaan Kapoor,Bhel Puri x1,50
+209,Ishaan Kapoor,Dahi Ragada Patties x1,80
+210,Aman Singh,Dahi Puri x1,65
+211,Simran Singh,Bhel Puri x2,100
+212,Aditya Shah,"Coke x2, Dahi Puri x1, Water Bottle x1",165
+213,Yash Joshi,"Sev Puri x2, Dahi Ragada Patties x2",280
+214,Simran Singh,"Dahi Ragada Patties x1, Coke x1",120
+215,Simran Singh,"Sev Puri x1, Ragada Patties x2",200
+216,Siddharth Jain,"Coke x2, Water Bottle x2, Ragada Patties x1",190
+217,Harsh Patel,"Bhel Puri x1, Dahi Ragada Patties x1",130
+218,Neel Shah,"Bhel Puri x1, Sev Puri x1",110
+219,Aman Singh,Water Bottle x2,40
+220,Dev Malhotra,"Sev Puri x2, Ragada Patties x2, Bhel Puri x2",360
+221,Manav Desai,Sev Puri x2,120
+222,Riya Mehta,"Dahi Ragada Patties x2, Bhel Puri x1, Sev Puri x2",330
+223,Aisha Khan,"Dahi Ragada Patties x2, Bhel Puri x1",210
+224,Harsh Patel,"Coke x2, Water Bottle x2, Ragada Patties x2",260
+225,Karan Shah,"Sev Puri x2, Bhel Puri x2, Coke x1",260
+226,Tanvi Patil,Dahi Puri x1,65
+227,Siddharth Jain,Water Bottle x1,20
+228,Ananya Sharma,"Dahi Ragada Patties x2, Dahi Puri x2",290
+229,Harsh Patel,"Bhel Puri x2, Ragada Patties x1",170
+230,Dev Malhotra,"Water Bottle x1, Dahi Puri x1, Ragada Patties x1",155
+231,Diya Joshi,Ragada Patties x1,70
+232,Yash Joshi,"Water Bottle x1, Coke x1, Dahi Puri x1",125
+233,Arjun Desai,"Bhel Puri x1, Sev Puri x1, Coke x1",150
+234,Diya Joshi,"Coke x2, Sev Puri x1, Bhel Puri x2",240
+235,Simran Singh,"Bhel Puri x2, Dahi Puri x2",230
+236,Rahul Verma,Coke x2,80
+237,Pooja Desai,"Bhel Puri x1, Coke x2, Dahi Puri x2",260
+238,Sneha Shah,Bhel Puri x1,50
+239,Aditya Shah,Sev Puri x2,120
+240,Aarav Sharma,"Dahi Puri x2, Ragada Patties x1, Bhel Puri x1",250
+241,Arjun Desai,"Water Bottle x1, Ragada Patties x2",160
+242,Neha Verma,Dahi Puri x2,130
+243,Riya Mehta,Ragada Patties x2,140
+244,Yash Joshi,"Water Bottle x1, Sev Puri x1, Bhel Puri x2",180
+245,Riya Mehta,Coke x2,80
+246,Krish Gupta,"Dahi Ragada Patties x1, Ragada Patties x2",220
+247,Vivaan Patel,"Sev Puri x1, Ragada Patties x1, Dahi Puri x1",195
+248,Krish Gupta,Sev Puri x1,60
+249,Riya Mehta,"Ragada Patties x2, Water Bottle x2, Bhel Puri x2",280
+250,Krish Gupta,"Dahi Ragada Patties x1, Ragada Patties x2, Bhel Puri x1",270
+251,Yash Joshi,"Dahi Ragada Patties x2, Bhel Puri x2, Sev Puri x2",380
+252,Diya Joshi,"Coke x2, Dahi Puri x1",145
+253,Yash Joshi,Water Bottle x1,20
+254,Priya Patel,Sev Puri x2,120
+255,Dev Malhotra,Dahi Ragada Patties x1,80
+256,Sneha Shah,Bhel Puri x1,50
+257,Vedant Rao,"Dahi Puri x1, Sev Puri x1",125
+258,Siddharth Jain,"Dahi Puri x2, Coke x2, Water Bottle x1",230
+259,Vedant Rao,"Dahi Ragada Patties x1, Sev Puri x1, Coke x2",220
+260,Dhruv Joshi,"Dahi Puri x1, Ragada Patties x1, Coke x1",175
+261,Manav Desai,Dahi Puri x2,130
+262,Rahul Verma,Ragada Patties x2,140
+263,Neel Shah,"Sev Puri x2, Water Bottle x2",160
+264,Riya Mehta,Water Bottle x1,20
+265,Neel Shah,Dahi Puri x2,130
+266,Pooja Desai,"Dahi Puri x2, Dahi Ragada Patties x2, Coke x2",370
+267,Vedant Rao,"Dahi Puri x1, Ragada Patties x1, Dahi Ragada Patties x2",295
+268,Aarav Sharma,"Dahi Ragada Patties x2, Coke x1",200
+269,Vedant Rao,"Bhel Puri x1, Ragada Patties x1",120
+270,Harsh Patel,Coke x1,40
+271,Sneha Shah,"Dahi Puri x2, Coke x2",210
+272,Aarav Sharma,Dahi Puri x1,65
+273,Harsh Patel,"Coke x1, Ragada Patties x1",110
+274,Manav Desai,Water Bottle x2,40
+275,Aditya Shah,"Bhel Puri x1, Water Bottle x1, Dahi Puri x2",200
+276,Dev Malhotra,Coke x1,40
+277,Aman Singh,"Coke x2, Dahi Ragada Patties x2, Bhel Puri x2",340
+278,Aditya Shah,"Bhel Puri x2, Water Bottle x1, Ragada Patties x1",190
+279,Ishaan Kapoor,"Sev Puri x1, Bhel Puri x2",160
+280,Harsh Patel,Sev Puri x1,60
+281,Simran Singh,"Coke x1, Dahi Puri x2, Ragada Patties x1",240
+282,Arjun Desai,"Coke x2, Water Bottle x1, Bhel Puri x2",200
+283,Karan Shah,"Bhel Puri x2, Ragada Patties x2, Sev Puri x2",360
+284,Arjun Desai,Bhel Puri x1,50
+285,Ananya Sharma,"Dahi Puri x1, Sev Puri x2, Coke x2",265
+286,Rahul Verma,"Coke x1, Sev Puri x1",100
+287,Vivaan Patel,"Bhel Puri x2, Ragada Patties x1",170
+288,Aditya Shah,"Ragada Patties x1, Sev Puri x2",190
+289,Diya Joshi,Water Bottle x2,40
+290,Simran Singh,"Dahi Ragada Patties x2, Sev Puri x2",280
+291,Yash Joshi,"Water Bottle x1, Ragada Patties x1",90
+292,Dhruv Joshi,"Dahi Ragada Patties x2, Water Bottle x1, Sev Puri x1",240
+293,Krish Gupta,Dahi Puri x2,130
+294,Dhruv Joshi,"Water Bottle x2, Bhel Puri x1",90
+295,Dev Malhotra,Sev Puri x1,60
+296,Rohan Mehta,"Coke x2, Ragada Patties x2",220
+297,Aman Singh,"Water Bottle x2, Dahi Puri x1",105
+298,Tanvi Patil,"Dahi Puri x1, Ragada Patties x1",135
+299,Vedant Rao,Bhel Puri x1,50
+300,Simran Singh,Coke x2,80
+301,krish,Sev Puri x11,660
